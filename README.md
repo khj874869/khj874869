@@ -47,14 +47,6 @@
 └───────────────────────────────────────────────────────────────────────┘
 ```
 
-## 🧩 Algorithm Stage
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj874869)](https://solved.ac/profile/khj874869/)
-
-</div>
-
 ## 📊 Score Board
 
 <div align="center">

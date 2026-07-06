@@ -83,10 +83,4 @@ Every solved problem makes the snake longer.
 
 ---
 
-<div align="center">
 
-### 🟩🟩🟩 Keep Growing 🟩🟩🟩
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff88,100:39ff14&section=footer" alt="footer" />
-
-</div>

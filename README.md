@@ -26,9 +26,9 @@
 > Eat commits, grow longer, clear the map.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khj874869/khj874869/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khj874869/khj874869/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/khj874869/khj874869/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khj874869/khj874869/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khj874869/khj874869/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/khj874869/khj874869/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -73,6 +73,13 @@
 [BOSS FIGHT]   Turn confusing bugs into clean notes.
 ```
 
+## 🚀 Featured Builds
+
+- [AlphaShopper](https://github.com/khj874869/AlphaShopper) — Spring Boot, Next.js, Kafka, Elasticsearch, Redis, Toss Payments and Kubernetes operations
+- [Quant Research Stack](https://github.com/khj874869/quantTrading) — reproducible equity research, backtesting, execution diagnostics and HTML reporting
+- [Signal Flow Live](https://github.com/khj874869/Repositoryisboardcrypto) — FastAPI market signals, streaming, authentication, migrations and production deployment
+- [QuantBot](https://github.com/khj874869/quantTradingBot) — paper/live multi-venue trading pipeline with risk controls and operational tooling
+
 ## 🗺️ Game Rule
 
 ```text
@@ -82,5 +89,4 @@ Every solved problem makes the snake longer.
 ```
 
 ---
-
 
